@@ -1,0 +1,41 @@
+body{
+	color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: rgb(255, 215, 246);
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+
+h1{
+	text-align: center;
+	font-style: italic;
+	padding: 10px;
+}
+
+P{
+	padding: 0 45px;
+	text-indent: 15px;
+}
+
+h2{
+	border-bottom: 2px solid #c00b8a;
+	text-align: center;
+	margin-top: 10px;
+}
+figure{
+	/*background-color: #f2eded;*/
+	border: 1px solid #ebb5e3;
+	text-align: center;
+	
+}
+
+figcaption{
+	font-style: italic;
+	margin-top: 10px;
+}
+
+
+.bottom{
+    
+}
